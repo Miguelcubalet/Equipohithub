@@ -6,3 +6,7 @@ p{
     background-color: red;
     color: blue
 }
+section p{
+    color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
