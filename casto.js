@@ -9,3 +9,7 @@ alert(yolanda);
 let david=prompt("Escribe tu nombre");
 
 alert(david);
+
+let german=prompt("Dime algo");
+
+alert(Galvez);

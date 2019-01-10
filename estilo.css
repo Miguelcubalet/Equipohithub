@@ -12,3 +12,9 @@ h2{
 section#david{
     background-color: blue;
 }
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+    font-size: 99%;
+}
