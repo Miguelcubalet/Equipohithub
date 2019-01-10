@@ -2,3 +2,9 @@ p{
     background-color: aqua;
     font-size: 25px;
 }
+
+h2{
+    color: palevioletred;
+    font-size: 200px;
+    font-family: "fantasy";
+}
