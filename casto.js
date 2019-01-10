@@ -6,6 +6,7 @@ let yolanda=prompt("Escribe el nombre de la única niña de clase");
 
 alert(yolanda);
 
+<<<<<<< HEAD
 let david=prompt("Escribe tu nombre");
 
 alert(david);
@@ -13,3 +14,8 @@ alert(david);
 let german=prompt("Dime algo");
 
 alert(Galvez);
+=======
+let podemos=prompt("¿Qué nota quieres sacar?");
+
+alert(10);
+>>>>>>> yolanda

@@ -8,6 +8,7 @@ h2{
     font-size: 200px;
     font-family: "fantasy";
 }
+<<<<<<< HEAD
 
 section#david{
     background-color: blue;
@@ -17,4 +18,9 @@ h3{
     font-family: 'Courier New', Courier, monospace;
     background-color: blue;
     font-size: 99%;
+=======
+h4{
+    background-color: blue;
+    
+>>>>>>> yolanda
 }
